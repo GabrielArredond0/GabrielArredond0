@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**GabrielArredond0/GabrielArredond0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola Soy Gabriel 👋
+---
+<p align="center">
+  <img src="https://kloramar.com.mx/wp-content/uploads/2020/10/Castores.jpg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+<h1>Tecnologias de la Información</h1>
+   <h3>Analista Desarrollador  SAP Front TI </h3>
+   <br>
+   <h1>Transportes Castores de Baja Californía S.A de C.V.</h1>
+   <hr>
